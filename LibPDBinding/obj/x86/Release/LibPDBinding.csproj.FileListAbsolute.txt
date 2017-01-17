@@ -1,0 +1,10 @@
+C:\Users\Phil\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Release\libpdcsharp.dll
+C:\Users\Phil\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Release\pthreadGC2.dll
+C:\Users\Phil\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Release\LibPDBinding.dll
+C:\Users\Phil\Google Drive\ProjectMaze\LibPDBinding\obj\x86\Release\LibPDBinding.csprojResolveAssemblyReference.cache
+C:\Users\Phil\Google Drive\ProjectMaze\LibPDBinding\obj\x86\Release\LibPDBinding.dll
+C:\Users\IDGResearch1\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Release\libpdcsharp.dll
+C:\Users\IDGResearch1\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Release\pthreadGC2.dll
+C:\Users\IDGResearch1\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Release\LibPDBinding.dll
+C:\Users\IDGResearch1\Google Drive\ProjectMaze\LibPDBinding\obj\x86\Release\LibPDBinding.csprojResolveAssemblyReference.cache
+C:\Users\IDGResearch1\Google Drive\ProjectMaze\LibPDBinding\obj\x86\Release\LibPDBinding.dll

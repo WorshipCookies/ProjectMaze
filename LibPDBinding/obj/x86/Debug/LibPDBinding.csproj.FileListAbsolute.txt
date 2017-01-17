@@ -1,0 +1,34 @@
+C:\Users\Phil\Desktop\libpd-master\libpd-master\csharp\bin\x86\Debug\libpdcsharp.dll
+C:\Users\Phil\Desktop\libpd-master\libpd-master\csharp\bin\x86\Debug\pthreadGC2.dll
+C:\Users\Phil\Desktop\libpd-master\libpd-master\csharp\bin\x86\Debug\LibPDBinding.dll
+C:\Users\Phil\Desktop\libpd-master\libpd-master\csharp\bin\x86\Debug\LibPDBinding.pdb
+C:\Users\Phil\Desktop\libpd-master\libpd-master\csharp\obj\x86\Debug\LibPDBinding.dll
+C:\Users\Phil\Desktop\libpd-master\libpd-master\csharp\obj\x86\Debug\LibPDBinding.pdb
+C:\Users\Phil\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Debug\libpdcsharp.dll
+C:\Users\Phil\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Debug\pthreadGC2.dll
+C:\Users\Phil\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Debug\LibPDBinding.dll
+C:\Users\Phil\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Debug\LibPDBinding.pdb
+C:\Users\Phil\Google Drive\ProjectMaze\LibPDBinding\obj\x86\Debug\LibPDBinding.dll
+C:\Users\Phil\Google Drive\ProjectMaze\LibPDBinding\obj\x86\Debug\LibPDBinding.pdb
+C:\Users\Phil\Google Drive\ProjectMaze\LibPDBinding\obj\x86\Debug\LibPDBinding.csprojResolveAssemblyReference.cache
+C:\Users\IDGResearch1\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Debug\libpdcsharp.dll
+C:\Users\IDGResearch1\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Debug\pthreadGC2.dll
+C:\Users\IDGResearch1\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Debug\LibPDBinding.dll
+C:\Users\IDGResearch1\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Debug\LibPDBinding.pdb
+C:\Users\IDGResearch1\Google Drive\ProjectMaze\LibPDBinding\obj\x86\Debug\LibPDBinding.dll
+C:\Users\IDGResearch1\Google Drive\ProjectMaze\LibPDBinding\obj\x86\Debug\LibPDBinding.pdb
+C:\Users\IDGResearch1\Google Drive\ProjectMaze\LibPDBinding\obj\x86\Debug\LibPDBinding.csprojResolveAssemblyReference.cache
+D:\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Debug\libpdcsharp.dll
+D:\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Debug\pthreadGC2.dll
+D:\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Debug\LibPDBinding.dll
+D:\Google Drive\ProjectMaze\LibPDBinding\bin\x86\Debug\LibPDBinding.pdb
+D:\Google Drive\ProjectMaze\LibPDBinding\obj\x86\Debug\LibPDBinding.csprojResolveAssemblyReference.cache
+D:\Google Drive\ProjectMaze\LibPDBinding\obj\x86\Debug\LibPDBinding.dll
+D:\Google Drive\ProjectMaze\LibPDBinding\obj\x86\Debug\LibPDBinding.pdb
+D:\GoogleDrive\ProjectMaze\LibPDBinding\bin\x86\Debug\libpdcsharp.dll
+D:\GoogleDrive\ProjectMaze\LibPDBinding\bin\x86\Debug\pthreadGC2.dll
+D:\GoogleDrive\ProjectMaze\LibPDBinding\bin\x86\Debug\LibPDBinding.dll
+D:\GoogleDrive\ProjectMaze\LibPDBinding\bin\x86\Debug\LibPDBinding.pdb
+D:\GoogleDrive\ProjectMaze\LibPDBinding\obj\x86\Debug\LibPDBinding.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\ProjectMaze\LibPDBinding\obj\x86\Debug\LibPDBinding.dll
+D:\GoogleDrive\ProjectMaze\LibPDBinding\obj\x86\Debug\LibPDBinding.pdb

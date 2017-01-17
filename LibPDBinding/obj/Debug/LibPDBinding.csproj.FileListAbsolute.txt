@@ -1,0 +1,7 @@
+C:\Users\Phil\Desktop\libpd-master\libpd-master\csharp\bin\Debug\libpdcsharp.dll
+C:\Users\Phil\Desktop\libpd-master\libpd-master\csharp\bin\Debug\pthreadGC2.dll
+C:\Users\Phil\Desktop\libpd-master\libpd-master\csharp\bin\Debug\LibPDBinding.dll
+C:\Users\Phil\Desktop\libpd-master\libpd-master\csharp\bin\Debug\LibPDBinding.pdb
+C:\Users\Phil\Desktop\libpd-master\libpd-master\csharp\obj\Debug\LibPDBinding.csprojResolveAssemblyReference.cache
+C:\Users\Phil\Desktop\libpd-master\libpd-master\csharp\obj\Debug\LibPDBinding.dll
+C:\Users\Phil\Desktop\libpd-master\libpd-master\csharp\obj\Debug\LibPDBinding.pdb
